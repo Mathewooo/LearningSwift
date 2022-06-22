@@ -1,0 +1,1 @@
+let number = 5 // Immutable (cannot be changed later in code)
